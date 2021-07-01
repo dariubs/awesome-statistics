@@ -9,6 +9,8 @@ A curated list of awesome statistics resources
 
 ## YouTube Series
 
+- [CrashCourse Statistics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
+
 ## Blogs
 
 ## Online Courses

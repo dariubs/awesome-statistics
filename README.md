@@ -20,3 +20,16 @@ A curated list of awesome statistics resources
 
 ## Online Courses
 
+### Free Courses
+
+### Paid Courses
+
+#### Linkedin
+
+- [Learning R](https://www.linkedin.com/learning/learning-r-2)
+- [Statistics Foundations: 1](https://www.linkedin.com/learning/statistics-foundations-1)
+- [Statistics Foundations: 2](https://www.linkedin.com/learning/statistics-foundations-2)
+- [Statistics Foundations: 3](https://www.linkedin.com/learning/statistics-foundations-3)
+- [Statistics Foundations: Probability](https://www.linkedin.com/learning/statistics-foundations-probability)
+
+

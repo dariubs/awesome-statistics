@@ -10,7 +10,7 @@ A curated list of awesome statistics resources
 ### Starter Books
 
 - [Statistics Essentials for Dummies](https://www.wiley.com/en-ai/Statistics+Essentials+For+Dummies-p-9781119590231) , By **Deborah J. Rumsey** , 
-
+- [Naked Statistics: Stripping the Dread from the Data](https://www.amazon.com/Naked-Statistics-Stripping-Dread-Data-ebook/dp/B007Q6XLF2)
 
 ## YouTube Series
 

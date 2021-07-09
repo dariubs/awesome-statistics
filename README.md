@@ -15,6 +15,7 @@ A curated list of awesome statistics resources
 ## YouTube Series
 
 - [CrashCourse Statistics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
+- [Statistics - A Full University Course on Data Science Basics](https://www.youtube.com/watch?v=xxpc-HPKN28) - by **Monika Wahi**
 
 ## Blogs
 

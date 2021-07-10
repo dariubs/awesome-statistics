@@ -5,12 +5,19 @@ A curated list of awesome statistics resources
 
 ## Contents
 
+- [Books](#books)
+  - [Starter Books](#starter-books)
+- [YouTube Series](#youtube-series)
+- [Blogs](#blogs)
+- [Online Courses](#online-courses)
+
 ## Books
 
 ### Starter Books
 
-- [Statistics Essentials for Dummies](https://www.wiley.com/en-ai/Statistics+Essentials+For+Dummies-p-9781119590231) , By **Deborah J. Rumsey** , 
-- [Naked Statistics: Stripping the Dread from the Data](https://www.amazon.com/Naked-Statistics-Stripping-Dread-Data-ebook/dp/B007Q6XLF2)
+- [Statistics Essentials for Dummies](https://www.wiley.com/en-ai/Statistics+Essentials+For+Dummies-p-9781119590231) - by **Deborah J. Rumsey**  
+- [Naked Statistics: Stripping the Dread from the Data](https://www.amazon.com/Naked-Statistics-Stripping-Dread-Data-ebook/dp/B007Q6XLF2) - by **Charles Wheelan**
+
 
 ## YouTube Series
 
@@ -20,17 +27,14 @@ A curated list of awesome statistics resources
 ## Blogs
 
 - [Statistics subreddit](https://www.reddit.com/r/statistics/)
-
 - [Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/) - **Andrew Gelman**'s blog
 - [Error Statistics Philosophy](https://errorstatistics.com/) - **Deborah Mayo**'s blog
 
 ## Online Courses
 
-### Free Courses
-
-### Paid Courses
-
 #### Linkedin
+
+> paid courses from linkedin (formerly lynda.com)
 
 - [Learning R](https://www.linkedin.com/learning/learning-r-2)
 - [Statistics Foundations: 1](https://www.linkedin.com/learning/statistics-foundations-1)

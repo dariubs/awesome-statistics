@@ -29,6 +29,7 @@ A curated list of awesome statistics resources
 - [Statistics subreddit](https://www.reddit.com/r/statistics/)
 - [Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/) - **Andrew Gelman**'s blog
 - [Error Statistics Philosophy](https://errorstatistics.com/) - **Deborah Mayo**'s blog
+- [Hyndsight](https://robjhyndman.com/hyndsight/) - **Rob J. Hyndman**'s blog
 
 ## Online Courses
 

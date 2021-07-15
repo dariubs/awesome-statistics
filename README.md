@@ -31,6 +31,7 @@ A curated list of awesome statistics resources
 - [Error Statistics Philosophy](https://errorstatistics.com/) - **Deborah Mayo**'s blog
 - [Hyndsight](https://robjhyndman.com/hyndsight/) - **Rob J. Hyndman**'s blog
 - [Simply Statistics](https://simplystatistics.org/) - **Rafa Irizarry**, **Roger Peng**, and **Jeff Leek**'s blog
+- [R-statistics blog](https://www.r-statistics.com/)
 
 ## Online Courses
 

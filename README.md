@@ -32,6 +32,7 @@ A curated list of awesome statistics resources
 - [Hyndsight](https://robjhyndman.com/hyndsight/) - **Rob J. Hyndman**'s blog
 - [Simply Statistics](https://simplystatistics.org/) - **Rafa Irizarry**, **Roger Peng**, and **Jeff Leek**'s blog
 - [R-statistics blog](https://www.r-statistics.com/)
+- [Statistics by Jim](https://statisticsbyjim.com/)
 
 ## Online Courses
 

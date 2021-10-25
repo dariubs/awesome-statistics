@@ -44,6 +44,7 @@ A curated list of awesome statistics resources
 
 ### Python books for statistics
 
+- [Think Bayes ,2e](http://allendowney.github.io/ThinkBayes2/) - by **Allen B. Downey** - *free*
 - [An Introduction to Statistics with Python](https://www.springer.com/gp/book/9783319283159) - by **Thomas Haslwanter**
 
 ## YouTube Series

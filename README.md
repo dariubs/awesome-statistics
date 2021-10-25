@@ -20,7 +20,9 @@ A curated list of awesome statistics resources
 
 - [Statistics Essentials for Dummies](https://www.wiley.com/en-ai/Statistics+Essentials+For+Dummies-p-9781119590231) - by **Deborah J. Rumsey**  
 - [Naked Statistics: Stripping the Dread from the Data](https://www.amazon.com/Naked-Statistics-Stripping-Dread-Data-ebook/dp/B007Q6XLF2) - by **Charles Wheelan**
-- [Think Stats](https://www.greenteapress.com/thinkstats/) - by **Allen B. Downey,** - 
+- [Think Stats](https://www.greenteapress.com/thinkstats/) - by **Allen B. Downey**
+- [Introduction to statistical thought](https://people.math.umass.edu/~lavine/Book/book.pdf) - by **Michael Lavine**
+
 
 ### Advanced Books
 
@@ -30,7 +32,7 @@ A curated list of awesome statistics resources
 
 ### R Books
 
-- [The art of R programming](heather.cs.ucdavis.edu/~matloff/132/NSPpart.pdf)
+- [The art of R programming](https://heather.cs.ucdavis.edu/~matloff/132/NSPpart.pdf)
 
 ### Python books for statistics
 

@@ -31,6 +31,7 @@ A curated list of awesome statistics resources
 - [Applying Contemporary Statistical Techniques](https://www.amazon.com/dp/0127515410)
 - [Multiple Regression And Beyond](https://www.amazon.com/dp/0205326447)
 - [The Signal and the Noise](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087) - by **Nate Silver**
+- [How to Lie with Statistics](https://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728) - by **Darrell Huff**
 
 ### Probability Books
 

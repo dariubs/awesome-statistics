@@ -42,7 +42,11 @@ A curated list of awesome statistics resources
 
 ## Online Courses
 
-#### Linkedin
+### free courses
+
+- [Statistics and probability](https://www.khanacademy.org/math/statistics-probability) - **Khan academy**
+
+### Paid courses
 
 > paid courses from linkedin (formerly lynda.com)
 

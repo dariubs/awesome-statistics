@@ -21,7 +21,8 @@ A curated list of awesome statistics resources
 
 ### Advanced Books
 
--[Forecasting: Methods and Applications](https://www.amazon.com/dp/0471532339)
+- [Forecasting: Methods and Applications](https://www.amazon.com/dp/0471532339)
+- [Applying Contemporary Statistical Techniques](https://www.amazon.com/dp/0127515410)
 
 ## YouTube Series
 

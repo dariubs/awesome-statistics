@@ -36,6 +36,8 @@ A curated list of awesome statistics resources
 
 ### Python books for statistics
 
+- [An Introduction to Statistics with Python](https://www.springer.com/gp/book/9783319283159) - by **Thomas Haslwanter**
+
 ## YouTube Series
 
 - [CrashCourse Statistics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)

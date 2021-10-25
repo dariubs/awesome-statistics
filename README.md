@@ -30,6 +30,7 @@ A curated list of awesome statistics resources
 - [Forecasting: Methods and Applications](https://www.amazon.com/dp/0471532339)
 - [Applying Contemporary Statistical Techniques](https://www.amazon.com/dp/0127515410)
 - [Multiple Regression And Beyond](https://www.amazon.com/dp/0205326447)
+- [The Signal and the Noise](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087) - by **Nate Silver**
 
 ### Probability Books
 

@@ -7,6 +7,7 @@ A curated list of awesome statistics resources
 
 - [Books](#books)
   - [Starter Books](#starter-books)
+  - [Advanced Books](#advanced-books)
 - [YouTube Series](#youtube-series)
 - [Blogs](#blogs)
 - [Online Courses](#online-courses)
@@ -18,6 +19,9 @@ A curated list of awesome statistics resources
 - [Statistics Essentials for Dummies](https://www.wiley.com/en-ai/Statistics+Essentials+For+Dummies-p-9781119590231) - by **Deborah J. Rumsey**  
 - [Naked Statistics: Stripping the Dread from the Data](https://www.amazon.com/Naked-Statistics-Stripping-Dread-Data-ebook/dp/B007Q6XLF2) - by **Charles Wheelan**
 
+### Advanced Books
+
+-[Forecasting: Methods and Applications](https://www.amazon.com/dp/0471532339)
 
 ## YouTube Series
 

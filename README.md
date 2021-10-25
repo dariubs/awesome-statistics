@@ -23,6 +23,7 @@ A curated list of awesome statistics resources
 
 - [Forecasting: Methods and Applications](https://www.amazon.com/dp/0471532339)
 - [Applying Contemporary Statistical Techniques](https://www.amazon.com/dp/0127515410)
+- [Multiple Regression And Beyond](https://www.amazon.com/dp/0205326447)
 
 ## YouTube Series
 

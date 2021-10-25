@@ -33,6 +33,7 @@ A curated list of awesome statistics resources
 
 ### Probability Books
 
+- [Introduction to Probability](https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf) - by **Dimitri P. Bertsekas** and **John N. Tsitsiklis**
 - [Basic Probability Theory](https://faculty.math.illinois.edu/~r-ash/BPT/BPT.pdf) - by **Robert B. Ash**
 
 ### R Books

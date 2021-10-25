@@ -22,7 +22,7 @@ A curated list of awesome statistics resources
 - [Statistics Essentials for Dummies](https://www.wiley.com/en-ai/Statistics+Essentials+For+Dummies-p-9781119590231) - by **Deborah J. Rumsey**  
 - [Naked Statistics: Stripping the Dread from the Data](https://www.amazon.com/Naked-Statistics-Stripping-Dread-Data-ebook/dp/B007Q6XLF2) - by **Charles Wheelan**
 - [Think Stats](https://www.greenteapress.com/thinkstats/) - by **Allen B. Downey**
-- [Introduction to statistical thought](https://people.math.umass.edu/~lavine/Book/book.pdf) - by **Michael Lavine**
+- [Introduction to statistical thought](https://people.math.umass.edu/~lavine/Book/book.pdf) - by **Michael Lavine** - *free*
 
 
 ### Advanced Books
@@ -33,10 +33,10 @@ A curated list of awesome statistics resources
 
 ### Probability Books
 
-- [Introduction to Probability](https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf) - by **Dimitri P. Bertsekas** and **John N. Tsitsiklis**
-- [Basic Probability Theory](https://faculty.math.illinois.edu/~r-ash/BPT/BPT.pdf) - by **Robert B. Ash**
-- [Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet/)
-- [An Introduction to Probability and Random Processes](https://ellerman.org/Davids-Stuff/Maths/Rota-Baclawski-Prob-Theory-79.pdf) - by **Gian-Carlo Rota** and **Kenneth Baclawski**
+- [Introduction to Probability](https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf) - by **Dimitri P. Bertsekas** and **John N. Tsitsiklis** - *free*
+- [Basic Probability Theory](https://faculty.math.illinois.edu/~r-ash/BPT/BPT.pdf) - by **Robert B. Ash** - *free*
+- [Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet/) - *free*
+- [An Introduction to Probability and Random Processes](https://ellerman.org/Davids-Stuff/Maths/Rota-Baclawski-Prob-Theory-79.pdf) - by **Gian-Carlo Rota** and **Kenneth Baclawski** - *free*
 
 ### R Books
 

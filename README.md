@@ -6,8 +6,9 @@ A curated list of awesome statistics resources
 ## Contents
 
 - [Books](#books)
-  - [Starter Books](#starter-books)
-  - [Advanced Books](#advanced-books)
+  - [Statistics Starter Books](#starter-books)
+  - [Statistics Advanced Books](#advanced-books)
+  - [Probability Books](#probability-books)
   - [R books](#r-books)
   - [Python books for statistics](#python-books-for-statistics)
 - [YouTube Series](#youtube-series)
@@ -29,6 +30,10 @@ A curated list of awesome statistics resources
 - [Forecasting: Methods and Applications](https://www.amazon.com/dp/0471532339)
 - [Applying Contemporary Statistical Techniques](https://www.amazon.com/dp/0127515410)
 - [Multiple Regression And Beyond](https://www.amazon.com/dp/0205326447)
+
+### Probability Books
+
+- [Basic Probability Theory](https://faculty.math.illinois.edu/~r-ash/BPT/BPT.pdf) - by **Robert B. Ash**
 
 ### R Books
 

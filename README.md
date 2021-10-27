@@ -39,6 +39,7 @@ A curated list of awesome statistics resources
 - [Basic Probability Theory](https://faculty.math.illinois.edu/~r-ash/BPT/BPT.pdf) - by **Robert B. Ash** - *free*
 - [Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet/) - *free*
 - [An Introduction to Probability and Random Processes](https://ellerman.org/Davids-Stuff/Maths/Rota-Baclawski-Prob-Theory-79.pdf) - by **Gian-Carlo Rota** and **Kenneth Baclawski** - *free*
+- [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - by **Cameron Davidson-Pilon** - *free*
 
 ### R Books
 
